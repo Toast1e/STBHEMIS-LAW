@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63RCWWN9GX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63RCWWN9GX');
+</script>
+	
+<title>Law HEMIS Calculator</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+  	<link rel="stylesheet" href="styles.css" >
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">	  <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+	<link rel="icon" type="image/x-icon" href="Pics/rainy_light_FILL0_wght400_GRAD0_opsz48.png">
+	<meta name="description" content="Engeneering Hemis Calculator for Stellenbosch students ">
+	<link rel="canonical" href="https://stbhemis.com"/>
+</head>
+<body>
+	<div id="overlay-notice"></div>
+	<div id="popup-container-notice">
+	  <div id="popup-content-notice">
+		<p><strong>Please be aware:</strong><br><br>
+			By continuing you acknowledge that this website is an <strong>independent entity</strong> and is <strong>not affiliated with</strong> nor endorsed by <strong>SU</strong>. 
+			All information and content provided on this site is intended for general informational purposes only.
+			The website assumes no liability for any errors, omissions, or miscalculations that may result from the use of 
+			the information provided.<br>
+			Users are encouraged to independently verify any information or calculations before making any decisions based on that information.</p>
+		<button id="close-button-notice">Continue</button>
+	  </div>
+	</div>
+	
+	  
+	  
+	  
+	  
+
+	<div class="popup-container">
+		<div class="popup-content">
+		  <!-- content of the popup goes here -->
+			<div>
+			<span>
+				How To:
+			</span>
+			<hr>
+			<h1><strong>TAKING:</strong></h1>
+			<ul>
+				<li>
+					<p>Select 
+						<strong>all</strong>
+						the 
+						<strong>modules</strong>
+						you are 
+						<strong>registered</strong>
+						for/have registered for in the past.
+					</p>
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<p>
+						This includes all the modules from you 
+						<strong>PROOF OF REGISTRATION</strong>
+						from first year and forward.
+					</p>
+				</li>
+			</ul>
+			<hr>
+			<h1><strong>PASSED:</strong></h1>
+			<ul>
+				<li>
+					<p>Select <strong>all</strong> the modules you have 
+						<strong>passed</strong> 
+						to calculate your HEMIS at that point.
+					</p>
+				</li>
+			</ul>
+			</div>
+			<div>
+				<button class="btn" id="popup-close-btn">GOT IT</button>
+		  	</div>
+		  	<!-- <div class="btn-group">
+				<button class="btn1" id="" onclick="window.location.href='card.html'">HEMIS INFO</button>
+				<button class="btn1" id="firstyr" onclick="window.location.href='patPage.html'">1ST YEARS!</button>
+		  	</div> -->
+		</div>  
+		<div>  
+			<!-- <a href="https://www.facebook.com/profile.php?id=100092375617796">
+			  <img src="Pics/facebook.png" alt="Facebook"  style="width:30px;height:auto;">
+			</a>
+			<a href="https://www.instagram.com/stb_hemis_calculator/">
+			  <img src="Pics/instagram.png" alt="Instagram" style="width:30px;height:auto;">
+			</a>
+			<a href="https://www.linkedin.com/in/christiaan-botha-943285274/">
+			  <img src="Pics/linkedin.png" alt="LinkedIn" style="width:30px;height:auto;">
+			</a> -->
+			<div class="legal">© 2023 STBHEMIS. All rights reserved.</div>
+			<div class="legal">NOT AFFILIATED WITH SU</div>
+			
+		</div>
+		<div id="popup-tab">
+		</div>
+	</div>
+
+	<!-- <div class="floating-btn">
+		<button id="collapse-btn">+</button>
+		<div class="hidden-btns">
+			<button id="save-btn">Save</button>
+			<button id="load-btn">Load</button>
+			<button id="clear-btn">Clear</button>
+			
+		</div>
+	  </div> -->
+	  
+	  
+
+
+	<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5MWTT6K"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<!-- <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button> -->
+	<div><p id="beta">LAW Beta V1.0</p></div>
+  <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search" title="Search Module or Module-code">
+  <!-- <div style="overflow-x:auto;"> -->
+
+	<table id="subjects-table">
+		<thead>
+			<tr>
+				<th>MODULE:  </th>
+				<th>CREDITS:  </th>
+				<th>TAKING:  </th>
+				<th>PASSED:  </th>
+			</tr>
+		</thead>
+		<tbody>
+		</tbody>
+		<p id="hemis">HEMIS: </p>
+
+	</table>
+
+  <!-- </div> -->
+  <script src="script.js"></script>
+
+</body>
+</html>

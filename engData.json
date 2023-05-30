@@ -1,0 +1,288 @@
+[
+    {
+        "id": "Introduction to Law 171",
+        "label": "1",
+        "value": "24"
+    },
+
+    {
+        "id": "Private Law 171",
+        "label": "1",
+        "value": "24"
+    },
+
+    {
+        "id": "Criminal Law 171",
+        "label": "1",
+        "value": "24"
+    },
+
+    {
+        "id": "Theory of Interest 152",
+        "label": "1",
+        "value": "6"
+    },
+
+    {
+        "id": "Economics 114",
+        "label": "1",
+        "value": "12"
+    },
+
+    {
+        "id": "Economics 144",
+        "label": "1",
+        "value": "12"
+    },
+
+    {
+        "id": "Financial Accounting 178",
+        "label": "1",
+        "value": "24"
+    },
+
+    {
+        "id": "Information Systems 114",
+        "label": "1",
+        "value": "12"
+    },
+
+    {
+        "id": "Information Systems 144",
+        "label": "1",
+        "value": "12"
+    },
+
+    {
+        "id": "Statistics and Data Science 188",
+        "label": "1",
+        "value": "18"
+    },
+
+
+
+
+
+
+    {
+        "id": "Private Law 272",
+        "label": "2",
+        "value": "16"
+    },
+
+    {
+        "id": "Private Law 273",
+        "label": "2",
+        "value": "16"
+    },
+
+    {
+        "id": "Roman Law 271",
+        "label": "2",
+        "value": "24"
+    },
+
+    {
+        "id": "Law of Criminal Procedure 271",
+        "label": "2",
+        "value": "20"
+    },
+
+    {
+        "id": "Constitutional Law 271",
+        "label": "2",
+        "value": "26"
+    },
+
+    {
+        "id": "Interpretation of Enacted Law 211",
+        "label": "2",
+        "value": "12"
+    },
+
+    {
+        "id": "Business Ethics 214",
+        "label": "2",
+        "value": "8"
+    },
+
+    {
+        "id": "Auditing 288",
+        "label": "2",
+        "value": "24"
+    },
+
+    {
+        "id": "Information Systems 214",
+        "label": "2",
+        "value": "6"
+    },
+
+    {
+        "id": "Information Systems 242",
+        "label": "2",
+        "value": "6"
+    },
+
+
+
+
+
+
+
+    {
+        "id": "Private Law 372",
+        "label": "3",
+        "value": "32"
+    },
+
+    {
+        "id": "Private Law 373",
+        "label": "3",
+        "value": "32"
+    },
+
+    {
+        "id": "International Law 341",
+        "label": "3",
+        "value": "12"
+    },
+
+    {
+        "id": "Mercantile Law 311",
+        "label": "3",
+        "value": "12"
+    },
+
+    {
+        "id": "Mercantile Law 312",
+        "label": "3",
+        "value": "12"
+    },
+
+    {
+        "id": "Financial Accounting 278",
+        "label": "3",
+        "value": "32"
+    },
+
+    {
+        "id": "Management Accounting 278",
+        "label": "3",
+        "value": "30"
+    },
+
+    {
+        "id": "Constitutional Law 312",
+        "label": "3",
+        "value": "12"
+    },
+
+
+
+
+
+
+    {
+        "id": "Administrative Law 411",
+        "label": "4",
+        "value": "16"
+    },
+
+    {
+        "id": "Mercantile Law 471",
+        "label": "4",
+        "value": "32"
+    },
+
+    {
+        "id": "Law of Civil Procedure 371",
+        "label": "4",
+        "value": "24"
+    },
+
+    {
+        "id": "Law of Taxation 411",
+        "label": "4",
+        "value": "12"
+    },
+
+    {
+        "id": "Private Law 411",
+        "label": "4",
+        "value": "12"
+    },
+
+    {
+        "id": "Legal Philosophy 341",
+        "label": "4",
+        "value": "12"
+    },
+
+    {
+        "id": "Legal Skills 411",
+        "label": "4",
+        "value": "12"
+    },
+
+    {
+        "id": "Digital and Leadership Acumen 324",
+        "label": "4",
+        "value": "12"
+    },
+
+    {
+        "id": "Taxation 298",
+        "label": "4",
+        "value": "24"
+    },
+
+    {
+        "id": "LLB elective modules (1)",
+        "label": "4",
+        "value": "24"
+    },
+
+    {
+        "id": "LLB elective modules (2)",
+        "label": "4",
+        "value": "24"
+    },
+
+   
+
+    
+
+
+
+    {
+        "id": "Law of Evidence 471",
+        "label": "5",
+        "value": "20"
+    },
+
+    {
+        "id": "Financial Accounting 379",
+        "label": "5",
+        "value": "48"
+    },
+
+    {
+        "id": "Auditing 378",
+        "label": "5",
+        "value": "24"
+    },
+
+    {
+        "id": "Taxation 399",
+        "label": "5",
+        "value": "36"
+    },
+
+    {
+        "id": "Management Accounting 378",
+        "label": "5",
+        "value": "36"
+    }
+
+]
